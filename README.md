@@ -19,3 +19,21 @@ Actionable Insights: Recommendations for targeting high-potential customers.
 Programming Language: Python
 Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 Development Environment: Jupyter Notebook
+
+📈 Key Insights & Findings
+🔹 Customer Behavior Analysis
+📌 Customers aged 30-50 are more likely to subscribe
+📌 Higher account balances correlate with higher subscription rates
+📌 Past successful marketing interactions improve conversion chances
+
+🔹 Model Performance
+📌 XGBoost outperformed other models with the highest accuracy and F1-score
+📌 Precision-Recall Balance ensures minimal marketing cost wastage
+📌 ROC Curve Analysis validates the model's predictive strength
+
+🔹 Business Impact
+✔️ Improved Customer Targeting: Predict high-potential leads
+✔️ Optimized Resource Allocation: Reduce marketing spend on uninterested customers
+✔️ Enhanced Customer Satisfaction: Personalized marketing offers
+✔️ Competitive Edge: AI-driven insights for strategic banking decisions
+
